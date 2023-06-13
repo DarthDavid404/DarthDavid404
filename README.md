@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">| MERN Developer | Tech Enthusiast |</h3>
 
-- 🌱 I’m currently learning **MERN with Next,Ai api Integrations**
+- 🌱 I’m currently learning **MERN with Next and Ai api Integrations**
 
 - 💬 Ask me about **React, OpenAI api, Blockchain**
 
