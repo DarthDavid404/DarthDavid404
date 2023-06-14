@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **darthdavid404@gmail.com**
 
-- ⚡ Fun fact **I will be one of the next Elon Musk's of the world!**
+- ⚡ Fun fact **I will be the next Elon Musk of the world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
